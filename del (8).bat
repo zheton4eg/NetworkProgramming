@@ -1,0 +1,1 @@
+C:\Users\zheka\sourse\repos\Arrays>FOR /D /R %%i In (.vs) DO erase /F /S /Q %%i
