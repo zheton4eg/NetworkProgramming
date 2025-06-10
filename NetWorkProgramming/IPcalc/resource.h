@@ -2,14 +2,13 @@
 // Microsoft Visual C++ generated include file.
 // Used by Resource.rc
 //
-#define IDC_STATIC_IP_ADDRESS           101
 #define IDD_DIALOG1                     101
 #define IDC_STATIC_IP_MASK              1001
 #define IDC_STATIC_IP_PREFIX            1002
 #define IDC_IPADDRESS                   1003
 #define IDC_IPMASK                      1004
 #define IDC_EDIT_PREFIX                 1005
-#define IDC_SPIN1                       1006
+#define IDC_SPIN_PREFIX                 1006
 
 // Next default values for new objects
 // 
